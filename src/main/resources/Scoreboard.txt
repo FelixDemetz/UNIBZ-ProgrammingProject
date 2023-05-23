@@ -1,0 +1,2 @@
+Player: tomazu, Health: 6, Money: 760, Game mode: Normal, Date: 27-07-2022.
+Player: caz ne so, Health: 8, Money: 310, Game mode: Normal, Date: 16-05-2023.
